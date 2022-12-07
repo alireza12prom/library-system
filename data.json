@@ -1,0 +1,57 @@
+{
+    "Books": {
+        "1": {
+            "Name": "Window",
+            "Autor": "Tom Bold",
+            "Rented": true
+        },
+        "2": {
+            "Name": "The Door",
+            "Autor": "John Parinson",
+            "Rented": false
+        },
+        "3": {
+            "Name": "My Name Is..",
+            "Autor": "Nolan",
+            "Rented": false
+        },
+        "4": {
+            "Name": "Fall In Love",
+            "Autor": "Sara Cley",
+            "Rented": false
+        },
+        "5": {
+            "Name": "The Hotel",
+            "Autor": "Team Nicol",
+            "Rented": false
+        },
+        "6": {
+            "Name": "The Hotel",
+            "Autor": "Tread Yong",
+            "Rented": false
+        },
+        "7": {
+            "Name": "Rainy Days",
+            "Autor": "Calin Molion",
+            "Rented": false
+        }
+    },
+    "Users": {
+        "1234": {
+            "Name": "alireza",
+            "Password": "1234",
+            "RentedBooks": {
+                "1": "7/12/2022"
+            },
+            "CreditType": "Golden",
+            "BlockedStatus": [],
+            "History": [
+                [
+                    "1",
+                    "7/12/2022",
+                    "7/12/2022"
+                ]
+            ]
+        }
+    }
+}
